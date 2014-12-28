@@ -1,6 +1,7 @@
 # ssd's Repository
 ssd's repogitory for github
+
 ---
-# history
+## history
 * 2014/12/28
 ====
