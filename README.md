@@ -1,4 +1,4 @@
-# ssd's Repository
+# ssd's Repository for GitHub
 ssd's repogitory for github
 
 ssd's Repository
